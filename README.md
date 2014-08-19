@@ -1,4 +1,4 @@
 WordPress-Functions
 ===================
 
-A list of handy php functions
+A list of handy WordPress related php functions
